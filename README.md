@@ -1,6 +1,6 @@
 # Duo SecureX Orchestration workflows
 
-Block and activate a Duo user in SeureX Orchestration
+Block and activate a Duo user in Cisco SecureX Orchestration
 
 
 # Prerequisites:
