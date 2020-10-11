@@ -13,6 +13,14 @@ Block and activate a Duo user in SeureX Orchestration
 - Admin Secret Key (sKey) as a Secure string variable [duo_admin_skey]
 
 
+3. Create the Duo Target based on the hostname. 
+
+  Give a name, like "Duo"
+  No account keys: True
+  HTTPS protocol, host/IP address: API hostname
+  Proxy: Ignore Proxy
+  
+
 # Import these workflows into SecureX Orchestration as atomic workflows:
 
 # 1. Duo Admin - Get User.json: 
