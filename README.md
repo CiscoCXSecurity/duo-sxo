@@ -20,6 +20,8 @@ Block and activate a Duo user in SeureX Orchestration
   - HTTPS protocol, host/IP address: API hostname
   - Proxy: Ignore Proxy
   
+4. Use this "Duo" target in the workflows selecting "Override workflow target" option and "Duo" target.
+
 
 # Import these workflows into SecureX Orchestration as atomic workflows:
 
