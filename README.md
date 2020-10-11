@@ -5,11 +5,15 @@ Block and activate a Duo user in SeureX Orchestration
 
 # Prerequisites:
 
-- Admin API application in Duo 
+1. Create Admin API application in Duo. 
+
+2. Copy the credentials into SecureX Orchestration variable section:
 
 - Admin Integration Key (iKey), Host as a string variables
-- Admin Secret Key (sKey) as a Secure Key
+- Admin Secret Key (sKey) as a Secure string variable
 
+
+# Import these workflows into SecureX Orchestration as atomic workflows:
 
 # 1. Duo Admin - Get User.json: 
 
