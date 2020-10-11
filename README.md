@@ -15,10 +15,10 @@ Block and activate a Duo user in SeureX Orchestration
 
 3. Create the Duo Target based on the hostname. 
 
-  Give a name, like "Duo"
-  No account keys: True
-  HTTPS protocol, host/IP address: API hostname
-  Proxy: Ignore Proxy
+  - Give a name, like "Duo"
+  - No account keys: True
+  - HTTPS protocol, host/IP address: API hostname
+  - Proxy: Ignore Proxy
   
 
 # Import these workflows into SecureX Orchestration as atomic workflows:
