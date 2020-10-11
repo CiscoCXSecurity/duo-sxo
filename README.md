@@ -52,4 +52,4 @@ Block and activate a Duo user in Cisco SecureX Orchestration
   This workflow activates a Duo user based on username. 
   
 
-It was created based on: https://github.com/SecureX-TME/orchestration/tree/master/atomics created by Matt Vander Horst.
+It was developed based on: https://github.com/SecureX-TME/orchestration/tree/master/atomics created by Matt Vander Horst.
