@@ -9,8 +9,8 @@ Block and activate a Duo user in SeureX Orchestration
 
 2. Copy the credentials into SecureX Orchestration variable section:
 
-- Admin Integration Key (iKey), Host as a string variables
-- Admin Secret Key (sKey) as a Secure string variable
+- Admin Integration Key (iKey), Host as a string variables [duo_admin_ikey], [duo_host]
+- Admin Secret Key (sKey) as a Secure string variable [duo_admin_skey]
 
 
 # Import these workflows into SecureX Orchestration as atomic workflows:
