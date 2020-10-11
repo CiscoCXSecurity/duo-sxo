@@ -40,12 +40,12 @@ Block and activate a Duo user in SeureX Orchestration
 
 # You can use these workflows:
 
-# 1. Duo Admin - Block User By UserID.json  
+# 1. Duo Admin - Block User By Username.json  
 
   This workflow blocks a Duo user based on username. 
   
 
-# 2. Duo Admin - Activate User By UserID.json  
+# 2. Duo Admin - Activate User By Username.json  
 
   This workflow activates a Duo user based on username. 
   
