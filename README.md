@@ -5,15 +5,15 @@ Block and activate a Duo user in Cisco SecureX Orchestration
 
 # Prerequisites:
 
-1. Create Admin API application in Duo. 
+1. Create an Admin API application in Duo and save the credentials.
 
-2. Copy the credentials into SecureX Orchestration variable section:
+2. Copy these credentials into Cisco SecureX Orchestration variable section:
 
 - Admin Integration Key (iKey), Host as a string variables [duo_admin_ikey], [duo_host]
 - Admin Secret Key (sKey) as a Secure string variable [duo_admin_skey]
 
 
-3. Create the Duo Target based on the hostname. 
+3. Create the Duo Target based on the hostname in the Cisco SecureX Orchestration. 
 
   - Give a name, like "Duo"
   - No account keys: True
