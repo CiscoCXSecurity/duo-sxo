@@ -25,4 +25,4 @@ Block and activate a Duo user in SeureX Orchestration
 
   This Atomic workflow activates the Duo user based on the UserID. 
 
-It was created based on: 
+It was created based on: https://github.com/SecureX-TME/orchestration/tree/master/atomics
